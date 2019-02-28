@@ -1,0 +1,48 @@
+.my-style{
+    height: 500px;
+    border: 1px solid red;
+}
+.class-one{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.class-two{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 40%;
+    background-color: blue;
+}
+
+.class-three{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 60%;
+    background-color: orange;
+}
+
+.class-four{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 70%;
+    background-color: navy;
+}
+
+.class-five{
+    margin-top: 50px;
+    margin-left: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 80%;
+    background-color: green;
+}
